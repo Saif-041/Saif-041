@@ -7,7 +7,7 @@
 
  <h3>👨‍💻 About Me<h3/>
   <p> I am a Full Stack Developer</p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saif-041)]
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Saif-041"/></a>
 <hr/>
  <h3>🛠️ Tools & Technologies<h3/>
 <div dir="auto">
