@@ -24,9 +24,7 @@ Here are some ideas to get you started:
  <hr/>
  <h3>🛠️ Tools & Technologies<h3/>
 
- <div dir="auto">
- 
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="5%" style="max-width: 100%;"></a>
+ <div dir="auto"> 
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="5%" style="max-width: 100%;"></a>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="5%" style="max-width: 100%;"></a> 
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="5%" style="max-width: 100%;"></a>
@@ -41,10 +39,10 @@ Here are some ideas to get you started:
 <!--      <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="5%" style="max-width: 100%;"></a> -->
 <!--    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VS Code" width="5%" style="max-width: 100%;"></a> -->
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="5%" style="max-width: 100%;"></a>
-<!--   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/unity/unity-original.svg" alt="Unity" width="5%" style="max-width: 100%;"></a> -->
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/unity/unity-original.svg" alt="Unity" width="5%" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Management Studio" width="5%" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku" width="5%" style="max-width: 100%;"></a> 
-<!--    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="5%" style="max-width: 100%;"></a> -->
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="5%" style="max-width: 100%;"></a>
   </div>
   <div>
   <summary>
