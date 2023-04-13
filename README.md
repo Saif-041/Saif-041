@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="5%" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-plain.svg" alt="SQLite" width="5%" style="max-width: 100%;"></a> 
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="5%" style="max-width: 100%;"></a> 
-<!--    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" alt="MySQL" width="5%" style="max-width: 100%;"></a>  -->
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" alt="MySQL" width="5%" style="max-width: 100%;"></a> 
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="5%" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VS Code" width="5%" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="5%" style="max-width: 100%;"></a>
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku" width="5%" style="max-width: 100%;"></a> 
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="5%" style="max-width: 100%;"></a>
   </div>
+  <br>
   <div>
   <summary>
    <h2>📊 Github Stats and Activity</h2>
