@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   
   <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Saif-041&theme=dark"/></a> -->
  
- <hr/>
  <h3>🛠️ Tools & Technologies<h3/>
+ <hr/>
 
  <div dir="auto"> 
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="5%" style="max-width: 100%;"></a>
@@ -47,9 +47,8 @@ Here are some ideas to get you started:
   </div>
   <br>
   <div>
-  <summary>
    <h2>📊 Github Stats and Activity</h2>
-  </summary>
+   <hr/>
   <h3>🔥 Streak Stats</h3>
    <p>
     <a href="https://github.com/Saif-041">
