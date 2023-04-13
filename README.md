@@ -14,27 +14,17 @@
  <div dir="auto">
  
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="5%" style="max-width: 100%;"></a>
- 
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="5%" style="max-width: 100%;"></a>
- 
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="5%" style="max-width: 100%;"></a> 
- 
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="5%" style="max-width: 100%;"></a>
- 
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="5%" style="max-width: 100%;"></a>
-   
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="5%" style="max-width: 100%;"> </a>
- 
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="5%" style="max-width: 100%;"></a>
-
 <!--    -->
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="5%" style="max-width: 100%;"></a>
- 
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="5%" style="max-width: 100%;"></a>
 <!--   -->
-  
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-plain.svg" alt="SQLite" width="5%" style="max-width: 100%;"></a> 
- 
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="5%" style="max-width: 100%;"></a> 
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" alt="MySQL" width="5%" style="max-width: 100%;"></a> 
      <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="5%" style="max-width: 100%;"></a>
