@@ -28,22 +28,15 @@ Here are some ideas to get you started:
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="5%" style="max-width: 100%;"></a>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="5%" style="max-width: 100%;"></a> 
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="5%" style="max-width: 100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="5%" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="5%" style="max-width: 100%;"> </a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="5%" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="5%" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="5%" style="max-width: 100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-plain.svg" alt="SQLite" width="5%" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="5%" style="max-width: 100%;"></a> 
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" alt="MySQL" width="5%" style="max-width: 100%;"></a> 
   <br>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="5%" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VS Code" width="5%" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="5%" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/unity/unity-original.svg" alt="Unity" width="5%" style="max-width: 100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Management Studio" width="5%" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku" width="5%" style="max-width: 100%;"></a> 
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="5%" style="max-width: 100%;"></a>
   </div>
   <br>
   <div>
@@ -59,10 +52,9 @@ Here are some ideas to get you started:
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Saif's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Saif-041&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
    <br>
    <br>
-   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Saif-041&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
- </div>
-  
+   <b>Top languages used so far.</b>
+  <!---
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Saif Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Saif-041&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+--->
+ </div>                                       
 </div>
